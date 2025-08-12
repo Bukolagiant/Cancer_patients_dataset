@@ -13,4 +13,5 @@ This project involved analyzing a structured dataset of 1,000 patients to identi
 
 
 ## Key Findings
-Smoking and Passive Smoking: Strong correlation between high smoking scores (≥7) and severe symptoms like coughing of blood, weight loss, and shortness of breath—matching global statistics where tobacco accounts for 80–90% of lung cancer cases.
+Smoking and Passive Smoking: Strong correlation between high smoking scores (≥7) and severe symptoms like coughing of blood, weight loss, and shortness of breath, matching global statistics where tobacco accounts for 80–90% of lung cancer cases.
+
