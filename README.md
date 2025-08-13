@@ -21,6 +21,7 @@ Gender Differences: Male patients made up a large portion of the dataset, with c
 Age Factor: All patients were middle-aged (around 28–44 years), but symptom escalation patterns suggest early warning signs can manifest well before the traditional lung cancer diagnosis age of 65+.
 
 Lifestyle Factors: Poor balanced diet and high alcohol use also correlated with symptom severity, albeit to a lesser extent than environmental and genetic risk factors.
+(!LungCancer Dashboard)[
 
 Tools & Technologies Used
 Microsoft Excel and Power Query – Data wrangling and normalization
