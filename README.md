@@ -1,4 +1,4 @@
-# Lung Cancer Patients dataset
+# Lung Cancer Patients Analysis
 ## Project Title: Predictive Analysis of Lung Cancer Risk Using Patient Lifestyle and Health Data
 
 ## Project Overview
