@@ -12,7 +12,7 @@ This project involved analyzing a structured dataset of 1,000 patients to identi
 - User feedback loop from test users to improve clarity and accessibility of visual outputs.
 
 
-## !Key Findings[
+## ![Key Findings](Cancer%20Patients%20analysis.png)
 #### Smoking and Passive Smoking: 
 Strong correlation between high smoking scores (≥7) and severe symptoms like coughing of blood, weight loss, and shortness of breath, matching global statistics where tobacco accounts for 80–90% of lung cancer cases.
 Environmental Exposure: Patients with high air pollution and occupational hazard scores showed similar symptom severity—even among non-smokers, indicating air quality is a critical risk contributor.
@@ -23,9 +23,8 @@ Male patients made up a large portion of the dataset, with consistently higher e
 #### Age Factor: 
 All patients were middle-aged (around 28–44 years), but symptom escalation patterns suggest early warning signs can manifest well before the traditional lung cancer diagnosis age of 65+.
 
-####Lifestyle Factors: 
+#### Lifestyle Factors: 
 Poor balanced diet and high alcohol use also correlated with symptom severity, albeit to a lesser extent than environmental and genetic risk factors.
-(!LungCancer Dashboard)[
 
 ### Tools & Technologies Used:
 Microsoft Excel and Power Query – Data wrangling and normalization
